@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/dev5c32373043/parcel-reporter-copy-file-v2/tree/main.svg?style=svg)](https://circleci.com/gh/dev5c32373043/parcel-reporter-copy-file-v2/tree/main)
+
 # parcel-reporter-copy-file-v2
 
 Reporter to copy static files for Parcel V2 (**buildSuccess** event)
