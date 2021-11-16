@@ -1,0 +1,10 @@
+{
+  "copyStaticFiles": [
+    "files/file1.txt",
+    "files/embed/*.txt",
+    { "from": "files/file1.txt", "to": "results1" },
+    { "from": "files/embed/*", "to": "results2" },
+    { "from": "files/**/*", "to": "results3" }
+
+  ]
+}
