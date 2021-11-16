@@ -1,11 +1,13 @@
 {
   "name": "parcel-reporter-copy-file-v2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reporter to copy static files for Parcel v2",
   "keywords": [
     "parcel",
     "reporter",
-    "copy files"
+    "static",
+    "files",
+    "copy"
   ],
   "source": "src/index.js",
   "main": "dist/main.js",
@@ -16,6 +18,14 @@
   },
   "author": "dev5c32373043",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:dev5c32373043/parcel-reporter-copy-file-v2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dev5c32373043/parcel-reporter-copy-file-v2/issues"
+  },
+  "homepage": "https://github.com/dev5c32373043/parcel-reporter-copy-file-v2#readme",
   "devDependencies": {
     "eslint": "^7.27.0",
     "eslint-config-airbnb-base": "^14.2.1",
